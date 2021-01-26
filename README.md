@@ -1,5 +1,4 @@
 # 并查集 APP：一查全查，应有尽有
-关于应用 / 隐私声明 / 联系作者
 
 <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P08CHLDB0Q1">
     <img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square" alt="Store link" />
@@ -8,6 +7,8 @@
 <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P08CHLDB0Q1">
     <img src="https://img.shields.io/badge/platform-windows%2010%20%7C%20UWP-purple.svg?style=flat-square" alt="Latest version" />
 
+关于应用 / 隐私声明 / 联系作者
+
 ----    
 关于应用
 ====
@@ -15,7 +16,7 @@
 
 目前免费提供简体中文版。
 
-一搜全搜，应有尽有！并查集是一款标签式、对比式的高度可自定义的聚合搜索应用。通过搜索网站管理与搜索结果管理，带给您高效的搜索体验。
+一查全查，应有尽有！并查集是一款标签式、对比式的高度可自定义的聚合搜索应用。通过搜索网站管理与搜索结果管理，带给您高效的搜索体验。
 
 * 同时使用多种搜索引擎
 * 自主添加您喜爱的网站
@@ -75,4 +76,4 @@
 ====
 邮箱：yqZhang4480@qq.com
 
-请不要在此留言，我们可能无法及时收到您的信息。
+请不要在此留言，我们可能无法及时收到您的消息。
