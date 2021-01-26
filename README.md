@@ -7,8 +7,6 @@
 <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P08CHLDB0Q1">
     <img src="https://img.shields.io/badge/platform-windows%2010%20%7C%20UWP-purple.svg?style=flat-square" alt="Latest version" />
 
-关于应用 / 隐私声明 / 联系作者
-
 ----    
 关于应用
 ====
