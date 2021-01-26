@@ -2,10 +2,13 @@
 
 <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P08CHLDB0Q1">
     <img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square" alt="Store link" />
+</a>
 <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P08CHLDB0Q1">
     <img src="https://img.shields.io/badge/latest%20version-v1.0-blue.svg?style=flat-square" alt="Latest version" />
+</a>
 <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P08CHLDB0Q1">
     <img src="https://img.shields.io/badge/platform-windows%2010%20%7C%20UWP-purple.svg?style=flat-square" alt="Latest version" />
+</a>
 
 ----    
 关于应用
